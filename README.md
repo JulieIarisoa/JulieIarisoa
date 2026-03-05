@@ -1,4 +1,4 @@
-# Hi there 👋
+<center># Hi there 👋</center>center>
 I'm Julie HARISOA, Web developper
 
 ![NomAlternatif](https://img.shields.io/badge/TexteGauche-TexteDroite-Couleur)
