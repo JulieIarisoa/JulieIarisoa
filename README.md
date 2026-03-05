@@ -11,11 +11,7 @@
     <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/JulieIarisoa/JulieIarisoa/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-<p align="center">
-  <img src="https://img.shields.io/badge/PLAYER_LEVEL-99-FFD700?style=for-the-badge&logo=github&logoColor=black" />
-  <img src="https://img.shields.io/badge/HP-100%2F100-00FF00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MP-50%2F50-0000FF?style=for-the-badge" />
-</p>
+
 <!--
 **JulieIarisoa/JulieIarisoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
