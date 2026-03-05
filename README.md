@@ -1,4 +1,6 @@
 ## Hi there 👋
+I'm Julie HARISOA, Web developper
+
 
 <!--
 **JulieIarisoa/JulieIarisoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
