@@ -1,12 +1,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20world%20!&fontSize=50" />
 <h2 align="center">I'm Julie HARISOA </h2>
+
+![NomAlternatif](https://img.shields.io/badge/Algorithm-27F549) ![NomAlternatif](https://img.shields.io/badge/HTML-91F527) ![NomAlternatif](https://img.shields.io/badge/CSS-CFF527) ![NomAlternatif](https://img.shields.io/badge/Javascript-F5E427) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F5A327) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F56F27) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F52727) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F5278B) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F227F5) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-AD27F5) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-6C27F5)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=radical" />
 </div>
-![NomAlternatif](https://img.shields.io/badge/Algorithm-27F549) ![NomAlternatif](https://img.shields.io/badge/HTML-91F527) ![NomAlternatif](https://img.shields.io/badge/CSS-CFF527) ![NomAlternatif](https://img.shields.io/badge/Javascript-F5E427) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F5A327) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F56F27) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F52727) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F5278B) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F227F5) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-AD27F5) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-6C27F5)
-
-
 <!--
 **JulieIarisoa/JulieIarisoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
