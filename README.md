@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋</h1>
-<div align="center">I'm Julie HARISOA, Web developper</div>
+<h2 align="center">I'm Julie HARISOA, Web developper</h2>
 
-![NomAlternatif](https://img.shields.io/badge/just%20the%20message-8A2BE2) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![NomAlternatif](https://img.shields.io/badge/just%20the%20message-8A2BE2) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-8A2BE2) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-8A2BE2) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-8A2BE2) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-8A2BE2) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-8A2BE2) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-8A2BE2)
 
 <!--
 **JulieIarisoa/JulieIarisoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
