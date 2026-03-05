@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20world%20!&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20world%20!&fontSize=80" />
 <h2 align="center">I'm Julie HARISOA </h2>
 
 ![NomAlternatif](https://img.shields.io/badge/Algorithm-27F549) ![NomAlternatif](https://img.shields.io/badge/HTML-91F527) ![NomAlternatif](https://img.shields.io/badge/CSS-CFF527) ![NomAlternatif](https://img.shields.io/badge/Javascript-F5E427) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F5A327) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F56F27) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F52727) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F5278B) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F227F5) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-AD27F5) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-6C27F5)
