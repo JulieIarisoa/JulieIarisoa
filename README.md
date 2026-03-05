@@ -4,7 +4,13 @@
 
 ![NomAlternatif](https://img.shields.io/badge/Algorithm-27F549) ![NomAlternatif](https://img.shields.io/badge/HTML-91F527) ![NomAlternatif](https://img.shields.io/badge/CSS-CFF527) ![NomAlternatif](https://img.shields.io/badge/Javascript-F5E427) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F5A327) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F56F27) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F52727) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F5278B) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-F227F5) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-AD27F5) ![NomAlternatif](https://img.shields.io/badge/just%20the%20message-6C27F5)
 
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VOTRE_PSEUDO/VOTRE_PSEUDO/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VOTRE_PSEUDO/VOTRE_PSEUDO/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/VOTRE_PSEUDO/VOTRE_PSEUDO/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 <!--
 **JulieIarisoa/JulieIarisoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
