@@ -1,5 +1,5 @@
-<div align="center"># Hi there 👋
-I'm Julie HARISOA, Web developper
+<h1 align="center"># Hi there 👋</h1>
+<div align="center">I'm Julie HARISOA, Web developper
  teste
 ![NomAlternatif](https://img.shields.io/badge/TexteGauche-TexteDroite-Couleur) </div>
 
