@@ -1,7 +1,7 @@
-# Hi there 👋
+<div align="center"># Hi there 👋
 I'm Julie HARISOA, Web developper
-<h1 align="center"> teste </h1>
-![NomAlternatif](https://img.shields.io/badge/TexteGauche-TexteDroite-Couleur)
+ teste
+![NomAlternatif](https://img.shields.io/badge/TexteGauche-TexteDroite-Couleur) </div>
 
 <!--
 **JulieIarisoa/JulieIarisoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
